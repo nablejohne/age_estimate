@@ -5,7 +5,6 @@ from pathlib import Path
 import dlib
 import numpy as np
 from imdb_data.face_estimate.source_file.model_compil import get_model
-# from imdb_data.face_estimate.source_file.model_compli_7 import get_model
 
 class Ui_MainWindow(QtWidgets.QWidget):
     def __init__(self, parent=None):
