@@ -1,6 +1,8 @@
 # 人脸年龄估算
-本次实验是参照Rothe文献，代码部分参照了[yu4u](https://github.com/yu4u/age-gender-estimation)的部分代码。
 
+---
+本次实验是参照Rothe文献，代码部分参照了[yu4u](https://github.com/yu4u/age-gender-estimation)的部分代码。
+release中含有训练好的模型提供下载。
 ---
 ## 使用模型
 
@@ -19,6 +21,8 @@
 >    * keras: 2.3
 
 ## 训练流程
+
+---
 
 >首先在ImageNet获得预训练`->`使用处理好的IMDB数据进行微调网络`->`  
 使用划分好的appa-real数据集对网络进行微调网络，并训练出20个网络`->`  
@@ -48,7 +52,10 @@
 <img src="https://github.com/nablejohne/age_estimate/tree/master/ui/demo.jpg" width="480px">
 
 
+
 ## 参考文献
+
+---
 [1] R. Rothe, R. Timofte, and L. V. Gool, "DEX: Deep EXpectation of apparent age from a single image,"  
 
 in Proc. of ICCV, 2015.
