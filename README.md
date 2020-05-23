@@ -31,6 +31,7 @@
 ---
 >点击imdb数据集，网站提供裁剪好的人脸头像数据集；然后再使用create_db.py  
 对数据集进行筛选图像。主要是剔除多张人脸，以及显示不清楚的图像。
+
 ###[appa-real数据集](http://chalearnlap.cvc.uab.es/dataset/26/description/)
 
 ---
