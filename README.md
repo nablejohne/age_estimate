@@ -1,4 +1,5 @@
 # 人脸年龄估算
+本次实验是参照Rothe文献，代码部分参照了[yu4u](https://github.com/yu4u/age-gender-estimation)的部分代码。
 
 ---
 ## 使用模型
@@ -47,7 +48,20 @@
 <img src="https://github.com/nablejohne/age_estimate/tree/master/ui/demo.jpg" width="480px">
 
 
+## 参考文献
+[1] R. Rothe, R. Timofte, and L. V. Gool, "DEX: Deep EXpectation of apparent age from a single image,"  
 
+in Proc. of ICCV, 2015.
+
+[2] R. Rothe, R. Timofte, and L. V. Gool, "Deep expectation of real and apparent age from a single image  
+
+without facial landmarks," in IJCV, 2016.
+
+[3]Agustsson E , Timofte R , Escalera S , et al. Apparent and Real Age Estimation in Still Images with  
+
+Deep Residual Regressors on Appa-Real Database[C]// IEEE International Conference on Automatic Face &   
+
+Gesture Recognition (FG). IEEE, 2017.
 
 
 
